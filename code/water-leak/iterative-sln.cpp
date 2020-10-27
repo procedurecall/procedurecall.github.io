@@ -1,4 +1,4 @@
-double total_resting_in(double amount_pored, int row, int glass_no) {
+double total_resting_in(double amount_poured, int row, int glass_no) {
   vector<vector<double>> dp(row + 1);
   dp[0].push_back(amount_poured);
 
