@@ -21,7 +21,7 @@ double f(double amount_poured, int i, int j,
   return memo[i][j];
 }
 
-double total_resting_in(double amount_pored, int i, int j) {
+double total_resting_in(double amount_poured, int i, int j) {
   unordered_map<int, unordered_map<int, double>> memo;
   return min(f(amount_poured, i, j, memo), double(1));
 }
