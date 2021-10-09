@@ -1,6 +1,6 @@
-## Welcome to the Procedure Call website
+## Welcome to Procedure Call
 
-All things Procedure Call.
+Call Procedure()
 
 [Youtube](https://www.youtube.com/channel/UCY4k6CICWK8BQzKxtAwPn-g)  
 [GitHub](https://github.com/procedurecall)

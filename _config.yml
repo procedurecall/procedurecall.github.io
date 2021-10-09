@@ -1,3 +1,12 @@
 title: Procedure Call
 description: All things algorithms.
+
 theme: jekyll-theme-hacker
+markdown: kramdown
+
+# any file in `_posts` directory gets a default layout of `post`
+defaults:
+  - scope:
+    path: _posts
+  - values:
+    layout: post
