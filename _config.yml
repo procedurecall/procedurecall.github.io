@@ -6,6 +6,7 @@ theme: minima #jekyll-theme-hacker
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-katex
 
 # any file in `_posts` directory gets a default layout of `post`
 defaults:
