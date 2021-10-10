@@ -1,3 +1,7 @@
+---
+layout: home
+---
+
 ## Welcome to Procedure Call
 
 Call Procedure()
